@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\Assignment.mcppi
+Project1=Digital_clock.mcppi
+[ActiveProject]
+Index=1
